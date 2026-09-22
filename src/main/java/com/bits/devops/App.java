@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "DevOps Lab - Continuous Build & Integration - BITS ID: 2022wc86185" );
+        System.out.println( "DevOps Lab - Continuous Build & Integration - BITS ID: 2022wc86185 -TASK 4 - CI Demo" );
     }
 }
+
+
